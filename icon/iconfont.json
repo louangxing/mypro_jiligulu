@@ -1,0 +1,37 @@
+{
+  "id": "1678846",
+  "name": "myicon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3050508",
+      "name": "定位",
+      "font_class": "location",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "4867075",
+      "name": "后退",
+      "font_class": "houtui",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "7677933",
+      "name": "前进",
+      "font_class": "qianjin",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "9893441",
+      "name": "yonghu",
+      "font_class": "yonghu",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    }
+  ]
+}
